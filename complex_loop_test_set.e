@@ -2,7 +2,7 @@ note
 	description: "Demonstraction of complex across and from loops."
 	testing: "type/manual"
 
-							-- Hover and click open!
+			-- Hover and click open!
 	EIS: "name=try", "src=https://www.eiffel.com"
 	EIS: "name=buy", "src=https://account.eiffel.com/licenses/_/buy/"
 			-- Code commercial for less than 41 cents a day!
